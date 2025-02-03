@@ -23,31 +23,44 @@
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!;+This+is+Ehab+Fathy...;Nice+to+meet+you!&center=true&size=30">
     </a>
 </h1>
-<h3 align="center">Junior Software Back-End Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently mastering **Nest.js** and exploring **AWS Cloud Practitioner**.
+## 👨‍💻 About Me  
 
-- 📫 Reach me at **ehabfathy2508@gmail.com**
+I’m **Ehab Fathy**, a **Software Engineer** passionate about **backend development, DevOps, and cloud computing**.  
+I hold a **Bachelor’s degree in Computer Science from MET University (2020 – 2024)** and specialize in:  
 
-<br>
+- **Building scalable backend systems** using **Node.js, Express.js, and NestJS**.  
+- **Database management** with **MongoDB, PostgreSQL, and Redis**.  
+- **Cloud computing & DevOps** with **AWS, Docker, Terraform, and CI/CD pipelines**.  
 
-<h3 align="left">Languages and Tools:</h3>
+I was a **finalist in the Egyptian Collegiate Programming Contest (ECPC)** and mentored students as an **Instructor at ACPC Club MET**, helping them improve their **competitive programming and algorithmic problem-solving skills**.  
+
+I'm always eager to **learn, innovate, and explore new technologies** to build **efficient, secure, and scalable software solutions**. 🚀  
+
+- 🌱 I’m currently mastering **Nest.js** and exploring **AWS Cloud Practitioner**.  
+- 📫 Reach me at **ehabfathy2508@gmail.com**  
+
+---
+
+## 🛠️ Languages and Tools  
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,expressjs,nestjs,mongodb)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=postgresql,redis,docker,git,github,linux,vscode)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,sqlite)](https://skillicons.dev)  
 
 ---
 
-<h3 align="left">Skills & Interests:</h3>
+## 🚀 Skills & Interests  
 
-- **Problem Solving**: Experienced in solving competitive programming challenges on platforms like HackerRank and LeetCode.  
-- **Data Structures & Algorithms**: Proficient in designing efficient solutions using concepts like trees, graphs, and dynamic programming.  
-- **Back-End Development**: Skilled in building scalable APIs and integrating with databases like MongoDB and PostgreSQL.  
-- **Cloud & DevOps**: Familiar with Docker, Terraform, and CI/CD pipelines.
+- **Problem Solving**: Competitive programming & algorithmic thinking.  
+- **Data Structures & Algorithms**: Trees, graphs, dynamic programming.  
+- **Back-End Development**: Scalable APIs, authentication, security best practices.  
+- **Cloud & DevOps**: Docker, Terraform, CI/CD, AWS cloud infrastructure.  
 
 ---
+
 <!--
 
 <div align="center">
@@ -68,4 +81,4 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
     </p>
 </div>
--->
+--> 
