@@ -12,16 +12,8 @@
     <!-- connection section -->
     <div align="right">
         <!-- LinkedIn -->
-        <a href="https://linkedin.com/in/ehabfathy">
+        <a href="https://www.linkedin.com/in/ehab-fathy-885003226/">
             <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-        </a>
-        <!-- Instagram -->
-        <a href="https://instagram.com/ehabfathy">
-            <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/>
-        </a>
-        <!-- Discord -->
-        <a href="https://discordapp.com/users/ehabfathy">
-            <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=Discord&logoColor=white">
         </a>
     </div>
 </div>
@@ -36,7 +28,7 @@
 
 - 🌱 I’m currently mastering **Nest.js** and exploring **AWS Cloud Practitioner**.
 
-- 📫 Reach me at **ehabfathy@gmail.com**
+- 📫 Reach me at **ehabfathy2508@gmail.com**
 
 <br>
 
@@ -56,6 +48,7 @@
 - **Cloud & DevOps**: Familiar with Docker, Terraform, and CI/CD pipelines.
 
 ---
+<!--
 
 <div align="center">
     <p align="center">
@@ -75,3 +68,4 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
     </p>
 </div>
+-->
